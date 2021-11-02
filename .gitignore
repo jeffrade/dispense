@@ -1,0 +1,5 @@
+.venv
+__pycache__/
+tmp
+slack_teams/
+dispense.log
